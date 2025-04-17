@@ -13,14 +13,14 @@
 
 ### 
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 <a href="https://www.linkedin.com/in/tipusahil" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
 </a>
-<a href="https://www.facebook.com/mdmostafatipumd55" target="_blank">
+<a href="https://www.facebook.com/tipusahilx" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" height="20" alt="facebook logo"  />
 </a>
-<a href="https://https://www.facebook.com/mdmostafatipumd55" target="_blank">
+<a href="https://https://www.facebook.com/tipusahilx" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
 </a>
 <a href="https://x.com/tipusahil_X" target="_blank">
