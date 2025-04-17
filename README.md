@@ -72,7 +72,7 @@
 
 ### 
 
-<div align="center">
+<div  align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
