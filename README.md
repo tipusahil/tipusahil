@@ -1,7 +1,7 @@
-
 <div align="center">
-  <img src="https://github.com/tipusahil.png" width="200" />
+<img src="https://github.com/tipusahil.png" style="width: 100%; radius:50%; "  />
 </div>
+
 
 ### 
 
