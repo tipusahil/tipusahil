@@ -34,21 +34,22 @@
 ### 
 
 
-<div align="center">
-
-- 🌱 I’m currently learning Full Stack Development (MERN Stack)  
-
-- 🔭 I’m currently working in **[Freelancer.com](http://freelancer.com/)** & LinkedIn  
-
-- 🤝 I’m open for freelance projects: [Freelancer Profile](https://www.fr.freelancer.com/u/tipusahil)  
-
-- 📫 How to reach me: tipusahil.ctg@gmail.com  
-
-</div>
-
 
 ### 
 
+### 
+
+<div align="center">
+
+<p>🌱 I’m currently learning Full Stack Development (MERN Stack)</p>
+
+<p>🔭 I’m currently working on <strong><a href="http://freelancer.com/" target="_blank" style="color: #00bfff;">Freelancer.com</a></strong> and LinkedIn</p>
+
+<p>🤝 I’m open for freelance projects: <a href="https://www.fr.freelancer.com/u/tipusahil" target="_blank" style="color: #00bfff;">Freelancer Profile</a></p>
+
+<p>📫 How to reach me: <a href="mailto:tipusahil.ctg@gmail.com" style="color: #00bfff;">tipusahil.ctg@gmail.com</a></p>
+
+</div>
 
 
 ### 
