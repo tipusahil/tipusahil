@@ -19,7 +19,7 @@
 <a href="https://www.facebook.com/mdmostafatipumd55" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" height="20" alt="facebook logo"  />
 </a>
-<a href="[https://https](https://https/)://www.facebook.com/mdmostafatipumd55" target="_blank">
+<a href="https://https://www.facebook.com/mdmostafatipumd55" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
 </a>
 <a href="https://x.com/tipusahil_X" target="_blank">
@@ -29,7 +29,6 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="20" alt="whatsapp logo"  />
 </a>
 </div>
-
 
 ### 
 
