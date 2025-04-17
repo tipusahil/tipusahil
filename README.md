@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tipusahil-01aa41316/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tipusahil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://github.com/tipusahil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="github" height="30" width="40" /></a>
 <a href="https://x.com/tipusahil_X" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/x.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mdmostafatipumd55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" alt="facebook" height="30" width="40" /></a>
