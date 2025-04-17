@@ -41,13 +41,13 @@
 
 <div align="center">
 
-<p>🌱 I’m currently learning Full Stack Development (MERN Stack)</p>
+<p>-🌱 I’m currently learning Full Stack Development (MERN Stack)</p>
 
-<p>🔭 I’m currently working on <strong><a href="http://freelancer.com/" target="_blank" style="color: #00bfff;">Freelancer.com</a></strong> and LinkedIn</p>
+<p>-🔭 I’m currently working on <strong><a href="http://freelancer.com/" target="_blank" style="color: #00bfff;">Freelancer.com</a></strong> and LinkedIn</p>
 
-<p>🤝 I’m open for freelance projects: <a href="https://www.fr.freelancer.com/u/tipusahil" target="_blank" style="color: #00bfff;">Freelancer Profile</a></p>
+<p>-🤝 I’m open for freelance projects: <a href="https://www.fr.freelancer.com/u/tipusahil" target="_blank" style="color: #00bfff;">Freelancer Profile</a></p>
 
-<p>📫 How to reach me: <a href="mailto:tipusahil.ctg@gmail.com" style="color: #00bfff;">tipusahil.ctg@gmail.com</a></p>
+<p>-📫 How to reach me: <a href="mailto:tipusahil.ctg@gmail.com" style="color: #00bfff;">tipusahil.ctg@gmail.com</a></p>
 
 </div>
 
@@ -58,7 +58,7 @@
 
 ### 
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
@@ -72,7 +72,7 @@
 
 ### 
 
-<div  align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div  align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
@@ -111,7 +111,7 @@
 
 ### 
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="express logo"  />
 <img width="12" />
@@ -146,7 +146,7 @@
 
 ### 
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
 <img width="12" />
 
@@ -161,7 +161,7 @@
 
 ### 
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="20" alt="json logo"  />
@@ -173,7 +173,7 @@
 
 ### 
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
 <img width="12" />
 </div>
