@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/tipusahil.png" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/tipusahil.png" width="200"/>
 </div>
 
 
