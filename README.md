@@ -32,15 +32,16 @@
 
 ###
 
-<p align="center">🔭 I’m currently working in Freelancer.com & linkedin</p>
+- 🌱 I’m currently learning **Full Stack Development (MERN Stack)**  
+- 🔭 I’m working on **React Projects and Full Stack Applications**  
+- 🤝 I’m open for freelance projects: [Freelancer Profile](https://www.fr.freelancer.com/u/tipusahil)  
+<p align="center">📫 - 📫 How to reach me: <a src="tipusahil.ctg@gmail.com">tipusahil.ctg@gmail.com</a> </p>
 
 ###
 
-<p align="center">🌱 Currently learning Mern Stack Web development</p>
 
 ###
 
-<p align="center">📫 tipusahil.ctg@gmail.com </p>
 
 ###
 
