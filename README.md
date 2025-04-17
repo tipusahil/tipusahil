@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/440338495_122093732342305247_4620846180599912263_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=loZcMEBRx5cQ7kNvgG6Xy60&_nc_ht=scontent.fdac31-2.fna&oh=00_AYBgWGaBMHWJMABM1e9E4USI1jWMJJ_Lsj_DZfJVLo5N2w&oe=66876BDF" style="width: 100%;"  />
+  <img src="https://github.com/tipusahil.png" width="200"/>
 </div>
+
 
 ### 
 
@@ -19,11 +20,11 @@
 <a href="https://www.facebook.com/mdmostafatipumd55" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="32" height="20" alt="facebook logo"  />
 </a>
-<a href="[https://https](https://https/)://www.facebook.com/mdmostafatipumd55" target="_blank">
+<a href="https://https://www.facebook.com/mdmostafatipumd55" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
 </a>
 <a href="https://x.com/tipusahil_X" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="twitter logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="32" height="20" alt="x logo"  />
 </a>
 <a href="https://web.whatsapp.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="20" alt="whatsapp logo"  />
@@ -31,6 +32,8 @@
 </div>
 
 ### 
+
+
 
 ### 
 
@@ -44,9 +47,10 @@
 
 <p>🤝 I’m open for freelance projects: <a href="https://www.fr.freelancer.com/u/tipusahil" target="_blank" style="color: #00bfff;">Freelancer Profile</a></p>
 
-<p>📫 How to reach me: <a [href="mailto:tipusahil.ctg@gmail.com](mailto:href=%22mailto:tipusahil.ctg@gmail.com)" style="color: #00bfff;">[tipusahil.ctg@gmail.com](mailto:tipusahil.ctg@gmail.com)</a></p>
+<p>📫 How to reach me: <a href="mailto:tipusahil.ctg@gmail.com" style="color: #00bfff;">tipusahil.ctg@gmail.com</a></p>
 
 </div>
+
 
 ### 
 
@@ -178,12 +182,12 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tipusahil&radius=5&theme=react&area=true&order=5&hide_border=true&hide_title=false&bg_color=20232a" height="300" alt="activity-graph graph"  />
-
+  
 <img src="https://github-readme-stats.vercel.app/api?username=tipusahil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tipusahil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
 
-<img src="[https://streak-stats.demolab.com?user=tipusahil&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3](https://streak-stats.demolab.com/?user=tipusahil&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3)" height="150" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=tipusahil&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
