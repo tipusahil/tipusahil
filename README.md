@@ -33,19 +33,19 @@
 
 ### 
 
-<p align="center">- 🌱 I’m currently learning **Full Stack Development (MERN Stack)</p>
+<p align="center">- 🌱 I’m currently learning Full Stack Development (MERN Stack)</p>
 
 ### 
 
-<p align="center">- 🔭 I’m currently working in [Freelancer.com](http://freelancer.com/) & linkedin</p>
+<p align="center">- 🔭 I’m currently working in **[Freelancer.com](http://freelancer.com/)** & linkedin</p>
 
 ### 
 
-<p align="center">- 🤝 I’m open for freelance projects: [Freelancer Profile](https://www.fr.freelancer.com/u/tipusahil) </p>
+<p align="center">- 🤝 I’m open for freelance projects: [Freelancer Profile](https://www.fr.freelancer.com/u/tipusahil)  </p>
 
 ###
 
-<p align="center">- 📫 How to reach me : tipusahil.ctg@gmail.com , tipusahil7@gmail.com </p>
+<p align="center">- 📫 How to reach me: tipusahil.ctg@gmail.com </p>
 
 ### 
 
@@ -159,8 +159,6 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg" height="20" alt="axios logo"  />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="20" alt="json logo"  />
 </div>
 
@@ -179,8 +177,11 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tipusahil&radius=5&theme=react&area=true&order=5&hide_border=true&hide_title=false&bg_color=20232a" height="300" alt="activity-graph graph"  />
+  
 <img src="https://github-readme-stats.vercel.app/api?username=tipusahil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tipusahil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+
 <img src="[https://streak-stats.demolab.com?user=tipusahil&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3](https://streak-stats.demolab.com/?user=tipusahil&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3)" height="150" alt="streak graph"  />
 </div>
 
