@@ -116,7 +116,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="express logo"  />
+<img src="https://github.com/tipusahil/assets/blob/main/assets/icons/image.png" height="20" alt="express logo"  />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="20" alt="graphql logo"  />
