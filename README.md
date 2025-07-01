@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
 </a>
 <a href="https://x.com/tipusahil_X" target="_blank">
-<img src="https://github.com/tipusahil/assets/blob/main/assets/icons/X_icon.png" width="32" height="20" alt="x logo"  />
+<img src="https://github.com/tipusahil/assets/blob/main/assets/icons/X2_icon.png" width="32" height="20" alt="x logo"  />
 </a>
 <a href="https://web.whatsapp.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="20" alt="whatsapp logo"  />
